@@ -1,0 +1,9 @@
+# Cryptograpy
+From my learning on this, I would describe this as the science of securing information by turning it into an unreadable code unless the right key is used.
+I’m learning that **cryptography** is the science of securing information by turning it into unreadable code unless the right key is used. When I study **symmetric cryptography**, I see that the same key is used for both **encryption** (locking the data) and **decryption** (unlocking it). 
+It’s fast but requires careful key sharing. 
+In **asymmetric cryptography**, I discover that two keys are involved: a **public key** that anyone can use to encrypt data, and a **private key** that only I hold to decrypt it. 
+This makes communication safer and also enables **digital signatures**, proving authenticity and integrity. 
+I realize that encryption transforms plain text into cipher text, while decryption reverses it back to readable form. 
+To practice, I used **Kali Linux** to generate and share public keys, save them securely, and encrypt files so that only my private key could decrypt them. 
+This hands-on process helped me understand how symmetric methods are efficient for large data, while asymmetric methods solve secure communication challenges. Together, they form the backbone of secure systems, ensuring confidentiality, trust, and safe digital interactions across networks.
